@@ -23,15 +23,10 @@ body {
 /* Header Section */
 .header {
     background-color: #f8f8f8; /* Or any suitable color */
-    padding: 50px 0;
+    padding: 500px 0;
     color: #333; /* Text color for header */
 }
 
-.profile-image {
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%; /* Circular image */
-}
 
 /* Text section inside header */
 .header .col-md-6 {
