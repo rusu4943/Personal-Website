@@ -75,3 +75,12 @@ body {
     background-color: rgba(0,0,0,0.7); /* Semi-transparent */
     color: white; /* Adjust as needed */
 }
+
+.profile-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* Circular image */
+    display: block; /* Added for block-level img element */
+    margin: 0 auto; /* Center image within its column */
+}
+
