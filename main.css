@@ -42,3 +42,14 @@ h2 {
 	bottom: 0;
 	width: 100%;
 }
+
+
+.header {
+    background: url('path_to_your_background_image.jpg') no-repeat center center; 
+    background-size: cover;
+    padding: 100px 0; /* Adjust as needed */
+}
+
+.about-section {
+    padding: 50px 0; /* Space above and below the about section */
+}
