@@ -45,9 +45,7 @@ h2 {
 
 
 .header {
-    background: url('background.jpg') no-repeat center center; 
-    background-size: cover;
-    padding: 100px 0; /* Adjust as needed */
+    padding: 150px 0; /* Increased padding */
 }
 
 .about-section {
@@ -55,5 +53,15 @@ h2 {
     background-color: #fff; /* Or any color that suits your design */
     color: #333; /* Text color for about section */
     text-align: left; /* Align text to the left */
+}
+
+
+.navbar {
+    background-color: rgba(0,0,0,0.5); /* Semi-transparent background */
+    border: none;
+    font-size: 16px;
+}
+.navbar-brand, .navbar-nav li a {
+    color: white !important;
 }
 
