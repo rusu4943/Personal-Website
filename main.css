@@ -74,7 +74,7 @@ body {
 .profile-image {
     max-width: 1000px; /* Adjust the size as needed */
     height: auto;
-    border-radius: 100%; /* Circular image */
+    border-radius: 200%; /* Circular image */
     display: block; /* Added for block-level img element */
     position: relative; /* Position relative to its normal position */
     top: 30px; /* Adjust the value to move the image down */
