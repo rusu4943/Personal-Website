@@ -87,5 +87,21 @@ body {
     margin: 0 auto; /* Center image within its column */
 }
 
+.projects-section {
+    padding: 50px 0; /* Adjust spacing */
+    text-align: center; /* Centering text */
+}
+
+.project-item {
+    margin-bottom: 30px; /* Space between project items */
+}
+
+.project-image {
+    max-width: 100%; /* Ensure image fits the container */
+    height: auto;
+    border-radius: 10px; /* Optional: for rounded corners */
+}
+
+
 
 
