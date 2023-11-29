@@ -43,6 +43,10 @@ body {
     font-size: 30px; /* Adjusted font size */
 }
 
+.Personal-Information-text-left{
+    text-align: left;
+}
+
 .text-left {
     text-align: left;
 }
