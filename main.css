@@ -77,8 +77,8 @@ body {
 }
 
 .profile-image {
-    max-width: 200px; /* Adjust the size as needed */
-    height: auto;
+    width: 100px; /* Set both width and height to the same value */
+    height: 100px; /* Set both width and height to the same value */
     border-radius: 50%; /* Circular image */
     display: block; /* Added for block-level img element */
     position: relative; /* Position relative to its normal position */
@@ -86,5 +86,6 @@ body {
     left: 20px; /* Adjust the value to move the image to the right */
     margin: 0 auto; /* Center image within its column */
 }
+
 
 
