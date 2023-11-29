@@ -77,8 +77,8 @@ body {
 }
 
 .profile-image {
-    width: 100px; /* Set both width and height to the same value */
-    height: 100px; /* Set both width and height to the same value */
+    width: 200px; /* Set both width and height to the same value */
+    height: 200px; /* Set both width and height to the same value */
     border-radius: 50%; /* Circular image */
     display: block; /* Added for block-level img element */
     position: relative; /* Position relative to its normal position */
