@@ -93,8 +93,13 @@ body {
 }
 
 .project-item {
-    margin-bottom: 30px; /* Space between project items */
+    background-color: white; /* Set the background color to white */
+    padding: 20px; /* Add some padding around the content */
+    margin-bottom: 50px; /* Space between project items */
+    border-radius: 10px; /* Optional: for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow for depth */
 }
+
 
 .project-image {
     max-width: 100%; /* Ensure image fits the container */
