@@ -98,6 +98,7 @@ body {
     margin-bottom: 50px; /* Space between project items */
     border-radius: 10px; /* Optional: for rounded corners */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow for depth */
+    color: #333; /* Or any color that contrasts well with white */
 }
 
 
